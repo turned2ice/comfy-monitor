@@ -3,7 +3,7 @@ a vibecoded widget for Windows to have a clue how sampling goes without looking 
 
 ![graphs](https://github.com/turned2ice/comfy-monitor/blob/main/images/graphs.png)
 ![preview](https://github.com/turned2ice/comfy-monitor/blob/main/images/preview.png)
-![small](https://github.com/turned2ice/comfy-monitor/blob/main/images/small.png)
+![small](https://github.com/turned2ice/comfy-monitor/blob/main/images/small2.png)
 
 ## Features and overview:
 
