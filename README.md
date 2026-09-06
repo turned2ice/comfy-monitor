@@ -1,6 +1,10 @@
 # Comfy Monitor
 a vibecoded widget for Windows to have a clue how sampling goes without looking at ComfyUI tab or task manager
 
+![graphs](https://github.com/turned2ice/comfy-monitor/blob/main/images/graphs.png)
+![preview](https://github.com/turned2ice/comfy-monitor/blob/main/images/preview.png)
+![small](https://github.com/turned2ice/comfy-monitor/blob/main/images/small.png)
+
 ## Features and overview:
 
  - Sampling step progress with elapsed and expected time
