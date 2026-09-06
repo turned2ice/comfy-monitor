@@ -20,8 +20,8 @@ a vibecoded widget for Windows to have a clue how sampling goes without looking 
 
  1. Download/clone repo somewhere
  2. Install requirements for system-wide python (**pip install -r requirements.txt**)
- 3. Install [KJNodes](https://github.com/kijai/ComfyUI-KJNodes) and wire the **Model Preview Override** node to your workflow. For video previews tweak the **preview_frames** and **preview_fps** as you need. There is also a tae option for MiniMax H3 model.
- 4. Put **comfy_widget_bridge.py** in **custom_nodes** comfy folder
+ 3.  Put **comfy_widget_bridge.py** in **custom_nodes** comfy folder
+ 4.  Install [KJNodes](https://github.com/kijai/ComfyUI-KJNodes) and wire the **Model Preview Override** node to your workflow. For video previews tweak the **preview_frames** and **preview_fps** as you need. There is also a tae option for MiniMax H3 model.
  5. Run **main.pyw**
 
 
